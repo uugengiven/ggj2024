@@ -3,7 +3,7 @@
 - Pen/Pencil/Dry Erase Marker
 - Individual small drawing surface that can be moved around the table
 - Deck of cards with the numbers 1-100
-- A list of scales
+- [A list of scales](./scales.md)
 ## Setup
 - Each player should have their own individual drawing implements
 - Shuffle the deck of number cards
